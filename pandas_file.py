@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+
 #series
 #pensar neles como se fossem dicionarios, com chave e valor
 labels = ['a','b','c']
